@@ -100,3 +100,8 @@ site/tmp
 
 site/crash.log
 site/Gemfile.lock
+
+### IntelliJ IDEA ###
+*.iml
+.idea
+
